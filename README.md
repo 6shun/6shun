@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @6shun
-- 👀 I’m interested in Autonomous Driving, Data Analysis
-- 🌱 I’m currently learning NN, ML, NLP
+- 👀 I’m interested in data science in engineering
+- 🌱 I’m currently learning data analytics, ML, NN, NLP
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
