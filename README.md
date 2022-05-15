@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @6shun
-- 👀 I’m interested in data science in engineering
-- 🌱 I’m currently learning data analytics, ML, NN, NLP
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in data science and machine learning in civil engineering fields (transportation, energy)
+- 🌱 I’m currently learning data computational photography, reinforcement learning
+- 💞️ I’m looking to collaborate on applying ML in transportation
 - 📫 How to reach me ...
 
 <!---
